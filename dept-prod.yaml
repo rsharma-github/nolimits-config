@@ -1,5 +1,5 @@
 deptinfo:
-  message: "Welcome to dept micro-service."
+  message: "Welcome to department micro-service."
   contactdetails:
     name: "prod"
     email: "prod@gmail.com"
