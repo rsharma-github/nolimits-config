@@ -1,0 +1,11 @@
+empinfo:
+  message: "Welcome to emp micro-service."
+  contactdetails:
+    name: "prod"
+    email: "prod@gmail.com"
+    version: "v1"
+    profile: "Prod"
+  oncallsupport:
+    - (101)8976-345
+    - (202)7868-546
+

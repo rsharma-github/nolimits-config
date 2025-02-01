@@ -1,0 +1,11 @@
+empinfo:
+  message: "Welcome to emp micro-service."
+  contactdetails:
+    name: "default"
+    email: "default@gmail.com"
+    version: "v3"
+    profile: "Default"
+  oncallsupport:
+    - (101)8976-345
+    - (202)7868-546
+

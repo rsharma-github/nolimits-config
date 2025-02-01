@@ -1,0 +1,11 @@
+empinfo:
+  message: "Welcome to emp micro-service."
+  contactdetails:
+    name: "qa"
+    email: "qa@gmail.com"
+    version: "v2"
+    profile: "QA"
+  oncallsupport:
+    - (101)8976-345
+    - (202)7868-546
+
