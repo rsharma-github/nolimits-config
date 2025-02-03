@@ -1,5 +1,5 @@
 empinfo:
-  message: "Welcome to emp123 micro-service."
+  message: "Welcome to emp micro-service."
   contactdetails:
     name: "qa"
     email: "qa@gmail.com"
